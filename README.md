@@ -33,6 +33,7 @@ The bank is experiencing increasing customer churn. Management needs a dashboard
 
 ## Dashboard Visuals
 <img width="1920" height="1032" alt="Screenshot 2026-06-28 012527" src="https://github.com/user-attachments/assets/e06b383e-6566-46ef-a2f5-23d52d0baef8" />
+
 - KPI cards (Total Customers, Total Churned, Churn Rate)
 - Bar chart (Churn by Geography)
 - Column chart (Churn by Gender)
